@@ -1,0 +1,19 @@
+.header {
+  background-color: #cae1f7;
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  position: fixed;
+  left: 0;
+  width: 100%;
+  z-index: 100;
+}
+.header-title {
+  font-size: 24px;
+  color: #121416;
+}
+.header-button {
+  top: 50px;
+  right: 50px;
+  border: none;
+}
